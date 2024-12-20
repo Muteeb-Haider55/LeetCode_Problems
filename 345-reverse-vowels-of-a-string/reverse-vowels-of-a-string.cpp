@@ -21,7 +21,6 @@ public:
                 j--;
             }
         }
-
         return s;
     }
 };
